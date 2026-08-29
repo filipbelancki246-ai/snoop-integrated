@@ -4,20 +4,20 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-2.0-orange.svg)](https://github.com/yourusername/snoop-osint)
 
-**SNOOP OSINT** - мощный инструмент для сбора информации из открытых источников.
+**SNOOP OSINT** is a powerful tool for gathering information from open sources.
 
-## ✨ Возможности
+## ✨ Features
 
-- 🔍 Поиск по никнеймам (20+ платформ)
-- 📧 Поиск по Email + проверка утечек
-- 📱 Поиск по телефону (страна, оператор, мессенджеры)
-- 🌐 Поиск по IP (WHOIS, геолокация, порты)
-- 🏛️ Госреестры (ЕГРЮЛ, суды, ФССП)
-- 🎯 Граф связей между аккаунтами
-- 📱 Мобильная версия
-- 🖥️ Десктопная версия (GUI)
+- 🔍 Username search (20+ platforms)
+- 📧 Email search + data breach check
+- 📱 Phone number search (country, carrier, messengers)
+- 🌐 IP search (WHOIS, geolocation, ports)
+- 🏛️ Government registries (EGRUL, court records, FSSP)
+- 🎯 Account relationship graph
+- 📱 Mobile version
+- 🖥️ Desktop version (GUI)
 
-## 🚀 Быстрый старт
+## 🚀 Quick Start
 
 ```bash
 # Клонирование
